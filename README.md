@@ -1,3 +1,3 @@
-# Makima
-Makima theme for vandetta 
-# Test
+# Makima theme 
+Makima theme for vandetta
+this my first vandetta theme 
