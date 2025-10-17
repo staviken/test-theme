@@ -388,7 +388,14 @@
         "GREEN_360": "#689d6a",
         "WHITE_500": "#ffede9",
         "YELLOW_300": "#d7992173"
-    },
+   },
+  "background": {
+    "url": "https://raw.githubusercontent.com/wiwiichan/AMOLED-anime-theme/refs/heads/main/rem.jpg",
+    "blur": 0.5,
+    "alpha": 0.25,
+    "size": "cover",
+    "position": "center"
+  },
     "plus": {
         "version": 0,
         "customOverlays": true,
