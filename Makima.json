@@ -527,8 +527,9 @@
     "YELLOW_400": "#ffaa00"
   },
   "background": {
-    "blur": 0.0,
-    "url": ""
+    "url": "https://raw.githubusercontent.com/staviken/test-theme/refs/heads/main/Polish_20260918_124220097.jpg",
+    "alpha": 0.67,
+    "blur": 0
   },
   "plus": {
     "version": "0",
