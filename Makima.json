@@ -1,11 +1,11 @@
 {
-  "name": "Makima",
-  "description": "Makima theme",
+  "name": "Red Void",
+  "description": "Deep black meets electric red. Dark and clean.",
   "version": "1.1.5",
   "authors": [
     {
-      "name": "stavikennn",
-      "id": "1532049815049863392"
+      "name": "rik.msi",
+      "id": "1247205137135435816"
     }
   ],
   "semanticColors": {
@@ -375,161 +375,6 @@
   "background": {
     "blur": 0.0,
     "url": ""
-  },
-  "plus": {
-    "version": "0",
-    "mentionLineColor": "#ff3333",
-    "customOverlays": true,
-    "icons": {
-      "StatusOnline": "#ff3333",
-      "StatusIdle": "#ffaa00",
-      "StatusDND": "#ff4444",
-      "StatusOffline": "#444444",
-      "ic_send": "#000000",
-      "ic_send__overlay": "#ff3333",
-      "search": "#ff3333",
-      "SettingsIcon": "#ff3333",
-      "PencilIcon": "#ff3333",
-      "MoreHorizontalIcon": "#ff3333"
-    }
-  },
-  "spec": 2
-        }    ],
-    "TAB_BAR_BACKGROUND": [
-      "#080808",
-      "#e8dddd"
-    ],
-    "TYPING_INDICATOR_BG": [
-      "#080808",
-      "#e8dddd"
-    ],
-    "ALERT_BG": [
-      "#111111",
-      "#ddd5d5"
-    ],
-    "CONTEXT_MENU_BACKDROP_BACKGROUND": [
-      "#000000aa",
-      "#202020aa"
-    ],
-    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#111111",
-      "#ddd5d5"
-    ],
-    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#111111",
-      "#ddd5d5"
-    ],
-    "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
-      "#151515",
-      "#d8d0d0"
-    ],
-    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
-      "#ff3333",
-      "#cc2222"
-    ],
-    "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
-      "#aa1111",
-      "#881111"
-    ],
-    "REDESIGN_BUTTON_PRIMARY_TEXT": [
-      "#000000",
-      "#ffffff"
-    ],
-    "REDESIGN_BUTTON_DESTRUCTIVE_BACKGROUND": [
-      "#111111",
-      "#e8d5d5"
-    ],
-    "REDESIGN_BUTTON_DESTRUCTIVE_TEXT": [
-      "#ffdddd",
-      "#201010"
-    ],
-    "REDESIGN_CHANNEL_NAME_TEXT": [
-      "#ff6666",
-      "#772222"
-    ],
-    "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#111111",
-      "#d8cdcd"
-    ],
-    "REDESIGN_INPUT_CONTROL_SELECTED": [
-      "#ff3333",
-      "#cc2222"
-    ],
-    "STANDALONE_CHANNEL_CONTENT_BACKGROUND": [
-      "#050505",
-      "#f0e8e8"
-    ],    "DIVIDER_STRONG": [
-      "#080808",
-      "#e8dddd"
-    ],
-    "SPOILER_HIDDEN_BACKGROUND": [
-      "#151515",
-      "#ddd5d5"
-    ],
-    "SPOILER_REVEALED_BACKGROUND": [
-      "#080808",
-      "#e8dddd"
-    ],
-    "STATUS_OFFLINE": [
-      "#151515",
-      "#c8b8b8"
-    ],
-    "STATUS_POSITIVE_BACKGROUND": [
-      "#200808",
-      "#f0d8d8"
-    ],
-    "STATUS_POSITIVE_TEXT": [
-      "#ff3333",
-      "#aa1111"
-    ],
-    "STATUS_WARNING_BACKGROUND": [
-      "#201808",
-      "#e8d8b8"
-    ],
-    "STATUS_WARNING_TEXT": [
-      "#ffaa00",
-      "#cc8800"
-    ],
-    "STATUS_DANGER_BACKGROUND": [
-      "#200808",
-      "#e8c8c8"
-    ],
-    "SCROLLBAR_THIN_THUMB": [
-      "#ff333340",
-      "#ff333340"
-    ],
-    "SCROLLBAR_AUTO_THUMB": [
-      "#ff333360",
-      "#ff333360"
-    ],
-    "CHAT_MENTIONS_BACKGROUND": [
-      "#ff333318",
-      "#ff333312"
-    ]
-  },
-  "rawColors": {
-    "PRIMARY_100": "#ffffff",
-    "PRIMARY_200": "#ffe8e8",
-    "PRIMARY_300": "#ff9999",
-    "PRIMARY_360": "#ff3333",
-    "PRIMARY_400": "#cc2222",
-    "PRIMARY_600": "#050505",
-    "PRIMARY_630": "#080808",
-    "BRAND_300": "#ff3333",
-    "BRAND_360": "#ff3333",
-    "BRAND_500": "#ff3333",
-    "BRAND_560": "#aa1111",
-    "BRAND_600": "#881111",
-    "RED_360": "#ff3333",
-    "RED_400": "#cc2222",
-    "RED_430": "#aa1111",
-    "ORANGE_360": "#ffaa55",
-    "YELLOW_400": "#ffaa00"
-  },
-  "background": {
-    "url": "https://raw.githubusercontent.com/staviken/test-theme/refs/heads/main/Polish_20260918_124220097.jpg",
-    "alpha": 0.67,
-    "blur": 0
   },
   "plus": {
     "version": "0",
